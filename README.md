@@ -17,8 +17,8 @@
 
 | Project | Focus |
 | --- | --- |
-| [Vehicle management](https://github.com/diyaryavuz/AracOtomasyonu) | C# Windows Forms, Access database and vehicle records |
-| [Task list](https://github.com/diyaryavuz/todolist-react-app) | React task management and a local Node.js API |
+| [Vehicle management](https://github.com/diyaryavuz/vehicle-management-system) | C# Windows Forms, Access database and vehicle records |
+| [Task list](https://github.com/diyaryavuz/react-task-manager) | React task management and a local Node.js API |
 | [Calculator](https://github.com/diyaryavuz/modern-calculator) | JavaScript arithmetic, keyboard input and automated tests |
 
 Setup instructions and validation details are available in each repository.
