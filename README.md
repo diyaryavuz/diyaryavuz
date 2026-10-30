@@ -17,6 +17,7 @@
 
 | Project | Focus |
 | --- | --- |
+| [CampaignKit](https://github.com/diyaryavuz/campaignkit) · [Live demo](https://diyaryavuz.github.io/campaignkit/) | React + TypeScript UTM workspace: bulk campaign links, local library, JSON backup and CSV export. MIT licensed; 19 automated tests. |
 | [Vehicle management](https://github.com/diyaryavuz/vehicle-management-system) | C# Windows Forms, Access database and vehicle records |
 | [Task list](https://github.com/diyaryavuz/react-task-manager) | React task management and a local Node.js API |
 | [Calculator](https://github.com/diyaryavuz/modern-calculator) | JavaScript arithmetic, keyboard input and automated tests |
